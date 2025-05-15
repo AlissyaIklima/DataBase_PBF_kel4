@@ -145,7 +145,8 @@ tambah_matkul
 
 update_matkul
 
-![image](https://github.com/user-attachments/assets/9591657f-d565-4738-8d4f-5280aada584d)
+![image](https://github.com/user-attachments/assets/38ebad56-e22c-4ae0-aa20-1cb589641d0f)
+
 
 4. tb_absensi
 
