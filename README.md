@@ -160,7 +160,7 @@ tambah_absensi
 
 update absensi
 
-![image](https://github.com/user-attachments/assets/aef39c2b-6993-4032-9075-075b026b3bee)
+![image](https://github.com/user-attachments/assets/c40cca06-2bb1-4f50-acc4-62af8322cd00)
 
 5. admin
 
