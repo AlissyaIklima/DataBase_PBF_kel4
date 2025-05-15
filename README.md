@@ -53,10 +53,10 @@ update  ->  ubah data
 delete  ->  hapus data
 Didalam database kelompok 4 adda beberpa query diantaranya :
 1. tb_dosen
-hapus_dosen
+#hapus_dosen
 ![image](https://github.com/user-attachments/assets/bde792fe-4ce0-45d9-a46c-eef6ddaa187e)
 tambah_dosen
-![image](https://github.com/user-attachments/assets/9764d0f2-3c21-494d-80bc-8c812b44c79a)
+![image](https://github.com/user-attachments/assets/86f81518-40cd-4462-9ffa-c418b47ad7df)
 update_dosen
 ![image](https://github.com/user-attachments/assets/1a818051-bd40-493e-a355-cd386472cb2e)
 2. tb_mahasiswa
