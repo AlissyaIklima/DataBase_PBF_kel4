@@ -61,10 +61,10 @@ Query merupakan perintah untuk mengambil, menambah, mengubah, dan menghapus data
 
 Berikut adalah beberapa query yang ada di dalam database kelompok 4:
 
-### 1. tb_dosen
+## tb_dosen
 
-**hapus_dosen**
-![hapus_dosen](https://github.com/user-attachments/assets/bde792fe-4ce0-45d9-a46c-eef6ddaa187e)
+1. **hapus_dosen**
+    ![hapus_dosen](https://github.com/user-attachments/assets/bde792fe-4ce0-45d9-a46c-eef6ddaa187e)
 
 **tambah_dosen**
 ![tambah_dosen](https://github.com/user-attachments/assets/86f81518-40cd-4462-9ffa-c418b47ad7df)
