@@ -80,5 +80,18 @@ tambah_absensi
 ![image](https://github.com/user-attachments/assets/7a48c806-f31f-4bf9-b0c7-dc9179d47983)
 update absensi
 ![image](https://github.com/user-attachments/assets/aef39c2b-6993-4032-9075-075b026b3bee)
+5. admin
+tambah_admin
+![image](https://github.com/user-attachments/assets/a2a60e68-c9d4-4a32-80e8-24e5c3b14dfa)
+update_admin
+![image](https://github.com/user-attachments/assets/56153083-c681-485d-ba72-1a609bf2c407)
+## Query tambahan
+Notifikasi 
+![image](https://github.com/user-attachments/assets/08eb4b67-4cb8-4fd2-be5f-3893a2c3eaff)
+View(pertemuan)
+![image](https://github.com/user-attachments/assets/a2815403-f279-4042-99b9-82f59ba7d3b0)
+
+
+
 
 
