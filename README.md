@@ -106,7 +106,7 @@ Didalam database kelompok 4 adda beberpa query diantaranya :
 
 1. tb_dosen
 
-#hapus_dosen
+hapus_dosen
 
 ![image](https://github.com/user-attachments/assets/bde792fe-4ce0-45d9-a46c-eef6ddaa187e)
 
