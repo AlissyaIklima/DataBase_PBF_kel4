@@ -112,7 +112,7 @@ hapus_dosen
 
 tambah_dosen
 
-![image](https://github.com/user-attachments/assets/86f81518-40cd-4462-9ffa-c418b47ad7df)
+![image](https://github.com/user-attachments/assets/1364e925-9ef4-4faa-85ca-bf0d4fe52770)
 
 update_dosen
 
