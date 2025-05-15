@@ -20,3 +20,15 @@ Jadi sebelum kesepakatan bersama, in merupakan sebuah referensi sebelum kesepaka
 4. Absensi
 5. Rekap Kehadiran
 6. Notifikasi
+
+# Database Kesepakatan
+Merupakan hasil kesepakatan bersama.
+1. users
+2. tb_admin
+3. tb_dosen
+4. tb_mahasiswa
+5. tb_matkul
+6. tb_absensi
+
+## ERD
+ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD kelompok 4 bisa dilihat dari link [ERD kelompok_4](https://drive.google.com/file/d/1ITw74a7gaKede_lDFxC7wmh6mW83CC7J/view?usp=sharing) to install foobar.
