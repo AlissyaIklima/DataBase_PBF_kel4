@@ -2,7 +2,7 @@
 
 
 
-Database adalah tempat penyimpanan data secara tersetruktur dan sistematis sehingga mudah untuk diakses, dikelola, dan diperbarui. Jadi database merupakan fondasi penting dalam pembuatan aplikasi.
+Database adalah tempat penyimpanan data secara tersetruktur dan sistematis sehingga mudah untuk diakses, dikelola, dan diperbarui. Jadi database merupakan fondasi penting dalam pembuatan aplikasi,sistem.
 
 
 
