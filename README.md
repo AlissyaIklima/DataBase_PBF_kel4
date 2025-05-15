@@ -65,7 +65,7 @@ hapus_mahasiswa
 tambah_mahasiswa
 ![image](https://github.com/user-attachments/assets/981a099d-f62a-48f4-b9a5-41d189a7e168)
 update_mahasiswa
-![image](https://github.com/user-attachments/assets/a8de1e2c-5e85-416f-8e43-b8c7c72d891c)
+![image](https://github.com/user-attachments/assets/abba79cb-a45f-4e20-973c-aa17b7d20a14)
 3. tb_matkul
 hapus_matkul
 ![image](https://github.com/user-attachments/assets/cc43ebe9-5674-4537-a058-3171776a3db9)
