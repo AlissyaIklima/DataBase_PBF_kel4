@@ -75,7 +75,7 @@ update_matkul
 ![image](https://github.com/user-attachments/assets/9591657f-d565-4738-8d4f-5280aada584d)
 4. tb_absensi
 hapus_absensi
-![image](https://github.com/user-attachments/assets/7a4738b7-3ed9-4c80-964c-a5df7e80615a)
+![image](https://github.com/user-attachments/assets/6724cc29-8a9c-425d-9453-a2af727b7701)
 tambah_absensi
 ![image](https://github.com/user-attachments/assets/7a48c806-f31f-4bf9-b0c7-dc9179d47983)
 update absensi
