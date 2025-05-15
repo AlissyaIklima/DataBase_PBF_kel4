@@ -32,4 +32,5 @@ Merupakan hasil kesepakatan bersama.
 
 ## ERD
 ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD kelompok 4 bisa dilihat dari link [ERD kelompok_4](https://drive.google.com/file/d/1ITw74a7gaKede_lDFxC7wmh6mW83CC7J/view?usp=sharing) to install foobar.
-![Screenshot Aplikasi](screenshots/homepage.png)
+![ERD](https://github.com/user-attachments/assets/474c9df8-e96c-45f0-9a15-fbe13006cd06)
+
