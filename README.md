@@ -58,7 +58,7 @@ hapus_dosen
 tambah_dosen
 ![image](https://github.com/user-attachments/assets/9764d0f2-3c21-494d-80bc-8c812b44c79a)
 update_dosen
-![image](https://github.com/user-attachments/assets/f3dd3f76-ad9b-40bc-9dc0-5d220bc7a9bd)
+![image](https://github.com/user-attachments/assets/1a818051-bd40-493e-a355-cd386472cb2e)
 2. tb_mahasiswa
 hapus_mahasiswa
 ![image](https://github.com/user-attachments/assets/2428b098-3452-4f89-ad67-756da3a5d2d6)
