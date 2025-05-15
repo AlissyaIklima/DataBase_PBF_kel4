@@ -21,7 +21,7 @@ Jadi sebelum kesepakatan bersama, in merupakan sebuah referensi sebelum kesepaka
 5. Rekap Kehadiran
 6. Notifikasi
 
-# Database Kesepakatan
+## Database Kesepakatan
 Merupakan hasil kesepakatan bersama.
 1. users
 2. tb_dosen
@@ -33,7 +33,7 @@ Merupakan hasil kesepakatan bersama.
 ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD kelompok 4 bisa dilihat dari link [ERD kelompok_4](https://drive.google.com/file/d/1ITw74a7gaKede_lDFxC7wmh6mW83CC7J/view?usp=sharing) to install foobar.
 ![ERD](https://github.com/user-attachments/assets/474c9df8-e96c-45f0-9a15-fbe13006cd06)
 
-# Struktur Tabel
+## Struktur Tabel
 1. users
 ![users](https://github.com/user-attachments/assets/c18e70d0-ade1-4961-b057-116816108b61)
 2. tb_dosen
@@ -45,9 +45,18 @@ ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD 
 5. tb_absensi
 ![absensi](https://github.com/user-attachments/assets/0abf4977-dfb8-44d9-94a5-66dcf561c129)
 
-# Query
+## Query
 Merupakan perintah untuk mengambil, menambah, mengubah, dan menghapus data dari database. Ada beberapa jenis Query :
 select  ->  mengambil data
 insert  ->  tambah data
 update  ->  ubah data
 delete  ->  hapus data
+Didalam database kelompok 4 adda beberpa query diantaranya :
+1. tb_dosen
+hapus_dosen
+![image](https://github.com/user-attachments/assets/f198b2c1-3ab6-4485-8c13-508fc86af001)
+tambah_dosen
+![image](https://github.com/user-attachments/assets/9764d0f2-3c21-494d-80bc-8c812b44c79a)
+update_dosen
+![image](https://github.com/user-attachments/assets/f3dd3f76-ad9b-40bc-9dc0-5d220bc7a9bd)
+
