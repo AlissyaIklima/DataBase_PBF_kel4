@@ -126,7 +126,7 @@ hapus_mahasiswa
 
 tambah_mahasiswa
 
-![image](https://github.com/user-attachments/assets/1c19bca5-dfcf-4009-a0e0-2027c0b4f06b)
+![image](https://github.com/user-attachments/assets/b7286011-abc7-4257-882b-4f83e9b92372)
 
 update_mahasiswa
 
