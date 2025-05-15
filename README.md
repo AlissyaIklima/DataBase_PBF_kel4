@@ -59,4 +59,10 @@ tambah_dosen
 ![image](https://github.com/user-attachments/assets/9764d0f2-3c21-494d-80bc-8c812b44c79a)
 update_dosen
 ![image](https://github.com/user-attachments/assets/f3dd3f76-ad9b-40bc-9dc0-5d220bc7a9bd)
-
+2. tb_mahasiswa
+hapus_mahasiswa
+![image](https://github.com/user-attachments/assets/2428b098-3452-4f89-ad67-756da3a5d2d6)
+tambah_mahasiswa
+![image](https://github.com/user-attachments/assets/981a099d-f62a-48f4-b9a5-41d189a7e168)
+update_mahasiswa
+![image](https://github.com/user-attachments/assets/684dcead-4253-461f-92f7-f1a4721b2da5)
