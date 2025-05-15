@@ -54,7 +54,7 @@ delete  ->  hapus data
 Didalam database kelompok 4 adda beberpa query diantaranya :
 1. tb_dosen
 hapus_dosen
-![image](https://github.com/user-attachments/assets/f198b2c1-3ab6-4485-8c13-508fc86af001)
+![image](https://github.com/user-attachments/assets/bde792fe-4ce0-45d9-a46c-eef6ddaa187e)
 tambah_dosen
 ![image](https://github.com/user-attachments/assets/9764d0f2-3c21-494d-80bc-8c812b44c79a)
 update_dosen
