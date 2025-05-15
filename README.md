@@ -63,7 +63,7 @@ update_dosen
 hapus_mahasiswa
 ![image](https://github.com/user-attachments/assets/0b07b1c7-ca90-4e6e-b33e-a0e69db7838c)
 tambah_mahasiswa
-![image](https://github.com/user-attachments/assets/981a099d-f62a-48f4-b9a5-41d189a7e168)
+![image](https://github.com/user-attachments/assets/1c19bca5-dfcf-4009-a0e0-2027c0b4f06b)
 update_mahasiswa
 ![image](https://github.com/user-attachments/assets/abba79cb-a45f-4e20-973c-aa17b7d20a14)
 3. tb_matkul
