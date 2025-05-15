@@ -130,7 +130,8 @@ tambah_mahasiswa
 
 update_mahasiswa
 
-![image](https://github.com/user-attachments/assets/abba79cb-a45f-4e20-973c-aa17b7d20a14)
+![image](https://github.com/user-attachments/assets/b72a4d5f-1541-4930-8567-ee3046e934b3)
+
 
 3. tb_matkul
 
