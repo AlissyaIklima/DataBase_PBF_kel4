@@ -70,7 +70,7 @@ update_mahasiswa
 hapus_matkul
 ![image](https://github.com/user-attachments/assets/cc43ebe9-5674-4537-a058-3171776a3db9)
 tambah_matkul
-![image](https://github.com/user-attachments/assets/0d49a6f1-83ce-4ec7-9409-4b6b72b665fb)
+![image](https://github.com/user-attachments/assets/68e09717-d54d-4e50-8b04-48ea321ae4d3)
 update_matkul
 ![image](https://github.com/user-attachments/assets/9591657f-d565-4738-8d4f-5280aada584d)
 4. tb_absensi
