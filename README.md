@@ -65,6 +65,32 @@ ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD 
 ![ERD](https://github.com/user-attachments/assets/474c9df8-e96c-45f0-9a15-fbe13006cd06)
 
 
+## Relasi Antar Tabel
+
+1. Matkul-Absensi
+   one-to-many
+   dalam 1 matkul dapat memiliki banyak catatan
+   diimplementasikan dengan id_matkul sebagai FK di tb_absensi
+
+2. Mahasiswa-Absensi
+   one-to-many
+   1 mahasiswa dapat memiliki banyak absensi
+   diimplementasikan dengan npm sebagai FK di tb_absensi
+
+3. Dosen-Absensi
+   one-to-many
+   1 dosen dapat menangani banyak catatan absensi
+   diimplementasikan dengan id_dosen sebagai FK di tb_absensi
+
+4. Users-Admin
+   one-to-one
+   setiap admin adalah user dengan role tertentu
+   diimplementasikan dengan id sebagai FK di users
+
+5. Users-Dosen
+   one-to-one
+   setiap dosenadalah user dengan role tertentu
+   diimplementasian dengan id sebagai FK di users
 
 ## Struktur Tabel
 
