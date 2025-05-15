@@ -65,4 +65,19 @@ hapus_mahasiswa
 tambah_mahasiswa
 ![image](https://github.com/user-attachments/assets/981a099d-f62a-48f4-b9a5-41d189a7e168)
 update_mahasiswa
-![image](https://github.com/user-attachments/assets/684dcead-4253-461f-92f7-f1a4721b2da5)
+![image](https://github.com/user-attachments/assets/a8de1e2c-5e85-416f-8e43-b8c7c72d891c)
+3. tb_matkul
+hapus_matkul
+![image](https://github.com/user-attachments/assets/cc43ebe9-5674-4537-a058-3171776a3db9)
+tambah_matkul
+![image](https://github.com/user-attachments/assets/0d49a6f1-83ce-4ec7-9409-4b6b72b665fb)
+update_matkul
+![image](https://github.com/user-attachments/assets/9591657f-d565-4738-8d4f-5280aada584d)
+4. tb_absensi
+hapus_absensi
+![image](https://github.com/user-attachments/assets/7a4738b7-3ed9-4c80-964c-a5df7e80615a)
+tambah_absensi
+![image](https://github.com/user-attachments/assets/7a48c806-f31f-4bf9-b0c7-dc9179d47983)
+update absensi
+![image](https://github.com/user-attachments/assets/7f1518e2-6e51-41db-acd0-3590568944dc)
+
