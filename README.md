@@ -45,3 +45,9 @@ ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD 
 5. tb_absensi
 ![absensi](https://github.com/user-attachments/assets/0abf4977-dfb8-44d9-94a5-66dcf561c129)
 
+# Query
+Merupakan perintah untuk mengambil, menambah, mengubah, dan menghapus data dari database. Ada beberapa jenis Query :
+select  ->  mengambil data
+insert  ->  tambah data
+update  ->  ubah data
+delete  ->  hapus data
