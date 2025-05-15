@@ -79,5 +79,6 @@ hapus_absensi
 tambah_absensi
 ![image](https://github.com/user-attachments/assets/7a48c806-f31f-4bf9-b0c7-dc9179d47983)
 update absensi
-![image](https://github.com/user-attachments/assets/7f1518e2-6e51-41db-acd0-3590568944dc)
+![image](https://github.com/user-attachments/assets/aef39c2b-6993-4032-9075-075b026b3bee)
+
 
