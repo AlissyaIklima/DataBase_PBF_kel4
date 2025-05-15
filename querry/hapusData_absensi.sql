@@ -1,0 +1,11 @@
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (29, 230303, 112, 101, '5', 'H');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (51, 230303, 113, 101, '3', 'S');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (59, 230303, 113, 106, '4', 'A');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (61, 230303, 113, 106, '3', 'A');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (63, 230303, 113, 106, '2', 'A');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (65, 230303, 113, 106, '5', 'A');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (67, 230303, 113, 106, '1', 'A');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (71, 230308, 113, 106, '1', 'A');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (73, 230308, 113, 106, '2', 'A');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (75, 230308, 113, 106, '3', 'A');
+INSERT INTO `hapusData_absensi` (`id_kehadiran`, `npm`, `id_dosen`, `id_matkul`, `pertemuan`, `keterangan`) VALUES (77, 230308, 113, 106, '4', 'A');

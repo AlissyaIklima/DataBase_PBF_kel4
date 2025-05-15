@@ -1,0 +1,1 @@
+insert into tb_absensi(npm,id_dosen,id_matkul,pertemuan,keterangan) values(230303,113,101,3,'S');
