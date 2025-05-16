@@ -65,6 +65,12 @@ ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD 
 ![ERD_kelompok4 (2)](https://github.com/user-attachments/assets/79c60022-5efa-4635-9f9e-08c74b763658)
 
 
+## Relation View
+
+![image](https://github.com/user-attachments/assets/d0fb55e5-be14-4fb4-b1f8-72d4f0e38035)
+
+
+
 ## Relasi Antar Tabel
 
 1. Matkul-Absensi
