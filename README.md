@@ -62,7 +62,7 @@ Merupakan hasil kesepakatan bersama.
 
 ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD kelompok 4 bisa dilihat dari link [ERD kelompok_4](https://drive.google.com/file/d/1ITw74a7gaKede_lDFxC7wmh6mW83CC7J/view?usp=sharing) to install foobar.
 
-![ERD_kelompok4 (1)](https://github.com/user-attachments/assets/b777d99d-8e66-4edc-83a3-968d71604962)
+![ERD_kelompok4 (2)](https://github.com/user-attachments/assets/79c60022-5efa-4635-9f9e-08c74b763658)
 
 
 ## Relasi Antar Tabel
@@ -188,15 +188,6 @@ update absensi
 
 ![image](https://github.com/user-attachments/assets/c40cca06-2bb1-4f50-acc4-62af8322cd00)
 
-5. admin
-
-tambah_admin
-
-![image](https://github.com/user-attachments/assets/a2a60e68-c9d4-4a32-80e8-24e5c3b14dfa)
-
-update_admin
-
-![image](https://github.com/user-attachments/assets/56153083-c681-485d-ba72-1a609bf2c407)
 
 ## Query tambahan
 
