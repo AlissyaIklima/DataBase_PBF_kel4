@@ -205,3 +205,20 @@ Notifikasi 
 View(pertemuan)
 
 ![image](https://github.com/user-attachments/assets/a2815403-f279-4042-99b9-82f59ba7d3b0)
+
+## Progress Harian
+1. Hari Pertama
+
+Dihari pertama pembagian tugas dan diskusi tentang apa saja yang harus ada di dalam database. Membuat ERD dan relasi antar tabel, dan revisi ERD dan relasinya.
+
+2. Hari kedua
+
+Dihari kedua mengulik aplikasi navicat, karena membuat database menggunakan navicat. Menyerahkan database sebelum di revisi lalu setelah di revisi dan kesepakatan bersama untuk database, membuat database yang sudah direvisi dan sudah kesepakatan bersama. 
+
+3. Hari Ketiga
+
+Dihari ketiga Menentukan struktur data seperti int, varchar, enum, dll. Membuat query tambah, edit, hapus.
+
+4. Hari keempat
+
+Dihari keempat Merevisi struktur database dan merevisi query jika ada yang salah maka query harus dibenarkan.
