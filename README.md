@@ -100,20 +100,19 @@ ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD 
 
 2. tb_dosen
 
-![dosen](https://github.com/user-attachments/assets/6df7078e-52ce-46ef-9935-7b2224035e7f)
+![image](https://github.com/user-attachments/assets/ef031382-049a-4e47-b5ac-8d152cc91dfc)
 
 3. tb_mahasiswa
 
-![mahasiswa](https://github.com/user-attachments/assets/8d5ae3d1-f8bd-4c66-80db-f9280060c872)
+![image](https://github.com/user-attachments/assets/a52e4a80-c2fa-4fc4-ad51-986038fe5035)
 
 4. tb_matkul
 
-![matkul](https://github.com/user-attachments/assets/cbc3967f-b6f5-4875-bfe3-a4d1d6a1b82f)
+![image](https://github.com/user-attachments/assets/a9775a0f-bbb1-48b7-baf2-00e1496b3643)
 
 5. tb_absensi
 
-![absensi](https://github.com/user-attachments/assets/0abf4977-dfb8-44d9-94a5-66dcf561c129)
-
+![image](https://github.com/user-attachments/assets/259cfe29-5d73-465b-8231-1ca81ebfebfa)
 
 
 
