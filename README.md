@@ -104,7 +104,7 @@ ERD merupakan pengambaran struktur data dan hubungan antar entitas. berikut ERD 
 
 3. tb_mahasiswa
 
-![image](https://github.com/user-attachments/assets/a52e4a80-c2fa-4fc4-ad51-986038fe5035)
+![image](https://github.com/user-attachments/assets/2eae1b24-0d66-4860-a6a2-cdb14fb92d2d)
 
 4. tb_matkul
 
